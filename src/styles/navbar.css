@@ -1,0 +1,44 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 70px;
+    align-items: center;
+    background-color: whitesmoke;
+}
+
+#about{
+    position: relative;
+    top: 5px;
+}
+
+#contact{
+    position: relative;
+    top: 5px;
+    color: rgb(42, 229, 18);
+}
+
+#login{
+    position: relative;
+    top: 5px;
+}
+
+.options>a{
+    text-decoration: none;
+    padding: 10px;
+}
+
+span{
+    color: red;
+}
+
+.logo{
+    display: flex;
+}
+
+#img{
+    color: red;
+    height: 30px;
+    width: 30px;
+    position: relative;
+    top: 8px;
+}

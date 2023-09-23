@@ -1,0 +1,15 @@
+.errorimg{
+ height: 32rem;
+ width: 90 rem;
+ display: flex;
+}
+.errorheading{
+    color: red;
+}
+.errordiv{
+    height: 32rem;
+ width: 90 rem;
+ display: flex;
+ justify-content: center;
+
+}
